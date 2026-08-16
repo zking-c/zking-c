@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm zking</h1>
-<h3 align="center">A developer with a built-in language reset every 7 days</h3>
+<h1 align="center">Hi 👋, I'm zking-c</h1>
+<h3 align="center">Learning.exe — a developer with a built-in language reset every 7 days</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=console.log(%22Wait%2C+how+did+for-loops+work%3F%22)%3B;git+commit+-m+%22knew+this+last+week%2C+I+swear%22;print(%22Loading+language...+0%25%22)" alt="Typing SVG" />
@@ -41,11 +41,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zking&show_icons=true&theme=tokyonight&hide_border=true" alt="zking's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zking-c&show_icons=true&theme=tokyonight&hide_border=true" alt="zking-c's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zking&theme=tokyonight&hide_border=true" alt="zking's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zking-c&theme=tokyonight&hide_border=true" alt="zking-c's GitHub streak" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ### 📫 Contact
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/zking-c"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>If this README sounds different from last week — I forgot and rewrote it.</i></p>
