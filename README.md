@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm zking-c</h1>
+<h1 align="center">Hi 👋, I'm zking</h1>
 <h3 align="center">a developer with a built-in language reset every 7 days</h3>
 
 <p align="center">
