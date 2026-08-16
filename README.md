@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm zking</h1>
-<h3 align="center">a developer with a built-in language reset every 7 days</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=console.log(%22Wait%2C+how+did+for-loops+work%3F%22)%3B;git+commit+-m+%22knew+this+last+week%2C+I+swear%22;print(%22Loading+language...+0%25%22)" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm zking</h1> <h3 align="center">a developer with a built-in language reset every 7 days</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=console.log(%22Wait%2C+how+did+for-loops+work%3F%22)%3B;git+commit+-m+%22knew+this+last+week%2C+I+swear%22;print(%22Loading+language...+0%25%22)" alt="Typing SVG" /> </p>
 
 ---
 
